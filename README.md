@@ -1,12 +1,6 @@
 # 🧑 About Me:
 Hello! My name is Buğra and I'm a IT Systems Engineering student. <br>My passion for software development has led me on this exciting journey. <br>To embark on this journey, I made the decision to switch from the university I was attending and chose the IT Systems Engineering program, and thus, I started my journey.<br><br>
 
-## 🎯 What's my goal?
-<br>On my journey to specialize in the backend, I aim to build strong foundations. I strive to stay updated with new technologies and advancements, and I am always eager to learn and improve myself. Keeping up with best practices and continuous self-development are important to me.<br>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bugrayaktiyol) 
-
 # 💻 Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
