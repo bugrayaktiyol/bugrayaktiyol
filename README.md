@@ -1,4 +1,4 @@
-# 🧑 About Me:
+# 👨🏻‍💻 About Me:
 Hello! My name is Buğra and I'm a IT Systems Engineering student. <br>My passion for software development has led me on this exciting journey. <br>To embark on this journey, I made the decision to switch from the university I was attending and chose the IT Systems Engineering program, and thus, I started my journey.<br><br>
 
 # 💻 Tech Stack:
