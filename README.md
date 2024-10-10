@@ -1,5 +1,5 @@
 # 👨🏻‍💻 About Me:
-Hello! My name is Buğra and I'm a IT Systems Engineering student. <br>My passion for software development has led me on this exciting journey. <br>To embark on this journey, I made the decision to switch from the university I was attending and chose the IT Systems Engineering program, and thus, I started my journey.<br><br>
+Hello! My name is Buğra <br>My passion for software development has led me on this exciting journey. <br>To embark on this journey, I made the decision to switch from the university I was attending and chose the IT Systems Engineering program, and thus, I started my journey.<br><br>
 
 # 💻 Tech Stack:
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
