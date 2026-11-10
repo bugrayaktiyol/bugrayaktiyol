@@ -8,3 +8,4 @@
 - **DevOps:** Docker
 - **Other:** MQTT, Electron.js
 
+<img src="./dev-room.svg" width="100%" alt="Bugra Yaktiyol - Software Engineer" />
