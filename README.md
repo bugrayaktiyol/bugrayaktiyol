@@ -8,4 +8,4 @@
 - **DevOps:** Docker
 - **Other:** MQTT, Electron.js
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bugrayaktiyol&bg_color=1e1e1e&color=D9B23A&line=D9B23A&point=D9B23A&area=true&area_color=f2c94c&hide_border=true)
+![Contribution Graph](https://github-act-graph.rodriaum.com/graph?username=bugrayaktiyol&bg_color=1e1e1e&color=D9B23A&line=D9B23A&point=D9B23A&area=true&area_color=f2c94c&hide_border=true)
